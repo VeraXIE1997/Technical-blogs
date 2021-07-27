@@ -31,13 +31,13 @@ Three steps are included, namely, cloud-based, cloud-ready and cloud-native.
 
 
 
-![](/Users/xieyicen/Desktop/Technical-blogs/ZTO Express/image for ZTO/1.jpeg)
+![](./image for ZTO/1.jpeg)
 
 
 
 The micro-service is based on Dubbo framework with completed adjustment, while it is implemented through virtual machine. Given many problems crop up when abundant Salt took place simultaneously, it is essential to adjust IaaS and containers in line with evaluation.
 
-![](/Users/xieyicen/Desktop/Technical-blogs/ZTO Express/image for ZTO/2.jpeg)
+![](./image for ZTO/2.jpeg)
 
 
 
@@ -51,13 +51,13 @@ ZTO Express decides to apply KubeSphere as the construction scheme of its contai
 
 In line with the reality, KubeSphere is taken as the base to carry out stateless service, manage Kubernetes and infrastructure resources through visualization. Stateful services are provided in IaaS, like the middleware.
 
-![](/Users/xieyicen/Desktop/Technical-blogs/ZTO Express/image for ZTO/3.jpeg)
+![](./image for ZTO/3.jpeg)
 
 
 
 In term of micro-service, Istio is applied first, which turns to be complex and it will cost much in adjustment.
 
-![](/Users/xieyicen/Desktop/Technical-blogs/ZTO Express/image for ZTO/4.jpeg)
+![](./image for ZTO/4.jpeg)
 
 
 
